@@ -1,0 +1,16 @@
+@import "tailwindcss";
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  margin: 0;
+  font-family: Inter, "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+}
+
+@layer components {
+  .card-base {
+    @apply rounded-2xl border border-slate-200 bg-white shadow-sm;
+  }
+}

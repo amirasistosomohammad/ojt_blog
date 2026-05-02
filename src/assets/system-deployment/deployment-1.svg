@@ -1,0 +1,5 @@
+<svg width="800" height="600" viewBox="0 0 800 600" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="800" height="600" fill="#ECFDF5"/>
+  <rect x="60" y="80" width="680" height="440" rx="12" fill="#D1FAE5" stroke="#059669" stroke-width="2"/>
+  <text x="400" y="310" text-anchor="middle" fill="#065F46" font-family="system-ui,sans-serif" font-size="22" font-weight="600">Overview  replace with screenshot</text>
+</svg>

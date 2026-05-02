@@ -1,0 +1,18 @@
+<svg width="1200" height="800" viewBox="0 0 1200 800" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg1" x1="0" y1="0" x2="1200" y2="800" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#065F46"/>
+      <stop offset="1" stop-color="#10B981"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="800" fill="url(#bg1)"/>
+  <rect x="120" y="130" width="960" height="540" rx="24" fill="white" fill-opacity="0.16"/>
+  <rect x="180" y="210" width="420" height="36" rx="8" fill="white" fill-opacity="0.9"/>
+  <rect x="180" y="280" width="820" height="22" rx="6" fill="white" fill-opacity="0.78"/>
+  <rect x="180" y="322" width="770" height="22" rx="6" fill="white" fill-opacity="0.66"/>
+  <rect x="180" y="364" width="720" height="22" rx="6" fill="white" fill-opacity="0.58"/>
+  <circle cx="930" cy="225" r="70" fill="white" fill-opacity="0.2"/>
+  <path d="M895 225L920 250L970 200" stroke="white" stroke-width="18" stroke-linecap="round" stroke-linejoin="round"/>
+  <text x="180" y="500" fill="white" font-family="Arial, sans-serif" font-size="44" font-weight="700">OJT Office Documentation</text>
+  <text x="180" y="550" fill="white" fill-opacity="0.9" font-family="Arial, sans-serif" font-size="28">Workplace tasks, records, and activities</text>
+</svg>

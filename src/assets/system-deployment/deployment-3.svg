@@ -1,0 +1,5 @@
+<svg width="800" height="600" viewBox="0 0 800 600" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="800" height="600" fill="#F8FAFC"/>
+  <rect x="60" y="80" width="680" height="440" rx="12" fill="#E2E8F0" stroke="#475569" stroke-width="2"/>
+  <text x="400" y="310" text-anchor="middle" fill="#1E293B" font-family="system-ui,sans-serif" font-size="22" font-weight="600">Deployment  replace with screenshot</text>
+</svg>

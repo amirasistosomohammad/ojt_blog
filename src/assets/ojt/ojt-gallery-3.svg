@@ -1,0 +1,18 @@
+<svg width="1200" height="800" viewBox="0 0 1200 800" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg3" x1="0" y1="800" x2="1200" y2="0" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#134E4A"/>
+      <stop offset="1" stop-color="#2DD4BF"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="800" fill="url(#bg3)"/>
+  <path d="M80 600C230 470 370 520 520 430C690 330 800 370 1120 230V760H80V600Z" fill="white" fill-opacity="0.18"/>
+  <rect x="130" y="130" width="940" height="500" rx="28" fill="white" fill-opacity="0.14"/>
+  <circle cx="250" cy="250" r="56" fill="white" fill-opacity="0.3"/>
+  <circle cx="250" cy="250" r="26" fill="white" fill-opacity="0.75"/>
+  <rect x="340" y="215" width="540" height="24" rx="7" fill="white" fill-opacity="0.9"/>
+  <rect x="340" y="255" width="420" height="20" rx="6" fill="white" fill-opacity="0.66"/>
+  <rect x="190" y="345" width="820" height="170" rx="16" fill="white" fill-opacity="0.28"/>
+  <text x="190" y="572" fill="white" font-family="Arial, sans-serif" font-size="40" font-weight="700">Training and Deployment Week</text>
+  <text x="190" y="614" fill="white" fill-opacity="0.9" font-family="Arial, sans-serif" font-size="26">Documentation, testing, and turnover</text>
+</svg>
