@@ -5,7 +5,7 @@ const links = [
   { to: '/', label: 'Home' },
   { to: '/portfolio', label: 'Portfolio' },
   { to: '/ojt-logs', label: 'OJT Logs' },
-  { to: '/system-deployment', label: 'System Deployment' },
+  { to: '/system-deployment', label: 'System Turn-Over' },
   { to: '/blog', label: 'Blog' },
   { to: '/contact', label: 'Contact' },
 ]
